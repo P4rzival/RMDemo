@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:text="BACK"
+        android:textColor="#0f9fff"
+        android:backgroundTint="#2b2326"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="652dp"
+        android:src="drawable-xxhdpi/Outrun.png"/>
+
+</LinearLayout>

@@ -35,6 +35,16 @@
         android:layout_height="match_parent"
         app:layout_behavior="@string/appbar_scrolling_view_behavior"/>
 
+    <Button
+        android:id="@+id/darrell_button"
+        android:layout_width="128dp"
+        android:layout_height="128dp"
+        android:text="DARRELL"
+        android:backgroundTint="#2b2326"
+        android:textColor="#0f9fff"
+        android:layout_gravity="center"
+        android:onClick="darrellButtonPressed"/>
+
     <com.google.android.material.floatingactionbutton.FloatingActionButton
         android:id="@+id/fab"
         android:layout_width="wrap_content"
