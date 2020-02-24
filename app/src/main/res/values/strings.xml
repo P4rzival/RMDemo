@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">TeamBio</string>
-    <string name="tab_text_1">Tab 1</string>
-    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_Taseen">Taseen</string>
+    <string name="tab_Maddy">Maddy</string>
+    <string name="tab_Darrel">Darrell</string>
+    <string name="tab_Matthew">Matthew</string>
 </resources>
