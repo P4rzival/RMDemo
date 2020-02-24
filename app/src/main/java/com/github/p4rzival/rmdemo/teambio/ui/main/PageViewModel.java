@@ -12,7 +12,7 @@ public class PageViewModel extends ViewModel {
     private LiveData<String> mText = Transformations.map(mIndex, new Function<Integer, String>() {
         @Override
         public String apply(Integer input) {
-            return "Hello world from section: " + input;
+            return "Hey I'm Taseen, a member of the Radius Message dev team, ths is a test application for Sprint 0 so we can all et familiar with the commit work process";
         }
     });
 
